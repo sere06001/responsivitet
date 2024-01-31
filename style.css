@@ -26,3 +26,17 @@ h1{
     margin: 0;
     text-align: center;
 }
+table{
+    width: 100%;
+    height: 97vh;
+}
+th{
+    height: 100%;
+    background-color: skyblue;
+}
+th > div{
+    height: 100%;
+    width: 50%;
+    background-color: yellow;
+    border-radius: 100%;
+}
